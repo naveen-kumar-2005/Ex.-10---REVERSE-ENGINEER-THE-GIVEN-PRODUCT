@@ -38,8 +38,8 @@
 ![image](https://github.com/user-attachments/assets/b3eedc60-8c95-4677-9b10-2c01b8edf8a9)
 
 
-### Name:Geethapriyan A S
-### Register Number:212224230074
+### Name:Naveen kumar.R
+### Register Number:212223230139
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
